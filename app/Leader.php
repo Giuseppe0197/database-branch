@@ -11,6 +11,6 @@ class Leader extends Model
         'lastname',
         'assumption',
         'wage',
-        'name_team'
-        ];
+        'team_name'
+    ];
 }
